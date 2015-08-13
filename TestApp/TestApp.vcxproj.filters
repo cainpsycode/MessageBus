@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Common">
+      <UniqueIdentifier>{29aab9a8-5b3b-4e54-94eb-e81a6607e8c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Common">
+      <UniqueIdentifier>{c5c3432e-5fcb-456b-ae7e-93a06595e4da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MessageBus">
+      <UniqueIdentifier>{921d5bf5-f8a8-4e70-b879-ee05e0315d44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MessageBus">
+      <UniqueIdentifier>{4f27aa6d-fb68-4a29-b34b-0864229df5e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Test">
+      <UniqueIdentifier>{d7c8a004-356a-49cf-a928-8fbf2c980b75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Test">
+      <UniqueIdentifier>{cdcafbfe-da94-42bf-8a1f-f8930b5573a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Test\Messages">
+      <UniqueIdentifier>{cbef9897-bbb0-4f38-9cd7-29bd9f9fa4ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Test\Messages">
+      <UniqueIdentifier>{b21b28d5-6f15-46dd-bcf7-8645ae8a0342}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+    <Text Include="Lynch.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Spielberg.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\SimplyConsoleLogger.h">
+      <Filter>Header Files\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\ILogger.h">
+      <Filter>Header Files\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\ThreadClass.h">
+      <Filter>Header Files\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageBus\MessageQueue.h">
+      <Filter>Header Files\MessageBus</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\ThreadLock.h">
+      <Filter>Header Files\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageBus\IMessage.h">
+      <Filter>Header Files\MessageBus</Filter>
+    </ClInclude>
+    <ClInclude Include="Test\MessageError.h">
+      <Filter>Header Files\Test\Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="Test\MessageFinish.h">
+      <Filter>Header Files\Test\Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="Test\MessageStart.h">
+      <Filter>Header Files\Test\Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="Test\MessageStop.h">
+      <Filter>Header Files\Test\Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="Test\MessageString.h">
+      <Filter>Header Files\Test\Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="Test\ReadClientThread.h">
+      <Filter>Header Files\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="Test\WriteClientThread.h">
+      <Filter>Header Files\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="Test\BaseClientThread.h">
+      <Filter>Header Files\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="Test\MasterClientThread.h">
+      <Filter>Header Files\Test</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\ILogger.cpp">
+      <Filter>Source Files\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\SimplyConsoleLogger.cpp">
+      <Filter>Source Files\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\ThreadClass.cpp">
+      <Filter>Source Files\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="MessageBus\MessageQueue.cpp">
+      <Filter>Source Files\MessageBus</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\ThreadLock.cpp">
+      <Filter>Source Files\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="MessageBus\IMessage.cpp">
+      <Filter>Source Files\MessageBus</Filter>
+    </ClCompile>
+    <ClCompile Include="Test\MessageError.cpp">
+      <Filter>Source Files\Test\Messages</Filter>
+    </ClCompile>
+    <ClCompile Include="Test\MessageFinish.cpp">
+      <Filter>Source Files\Test\Messages</Filter>
+    </ClCompile>
+    <ClCompile Include="Test\MessageStart.cpp">
+      <Filter>Source Files\Test\Messages</Filter>
+    </ClCompile>
+    <ClCompile Include="Test\MessageStop.cpp">
+      <Filter>Source Files\Test\Messages</Filter>
+    </ClCompile>
+    <ClCompile Include="Test\MessageString.cpp">
+      <Filter>Source Files\Test\Messages</Filter>
+    </ClCompile>
+    <ClCompile Include="Test\ReadClientThread.cpp">
+      <Filter>Source Files\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Test\BaseClientThread.cpp">
+      <Filter>Source Files\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Test\WriteClientThread.cpp">
+      <Filter>Source Files\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Test\MasterClientThread.cpp">
+      <Filter>Source Files\Test</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

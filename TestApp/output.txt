@@ -1,0 +1,58 @@
+Spielberg	The Sugarland Express	April 5, 1974
+Spielberg	Jaws	June 20, 1975
+Lynch	Six Men Getting Sick (Six Times)	1967
+Spielberg	Close Encounters of the Third Kind	November 16, 1977
+Lynch	Absurd Encounter with Fear	1967
+Spielberg	Raiders of the Lost Ark	June 12, 1981
+Spielberg	E.T. the Extra-Terrestrial	June 11, 1982
+Lynch	Fictitious Anacin Commercial	1967
+Spielberg	Indiana Jones and the Temple of Doom	May 23, 1984
+Lynch	The Alphabet	1968
+Spielberg	The Color Purple	December 18, 1985
+Spielberg	Empire of the Sun	December 25, 1987
+Lynch	The Grandmother	1970
+Spielberg	Indiana Jones and the Last Crusade	May 24, 1989
+Lynch	The Amputee	1974
+Spielberg	Always	December 22, 1989
+Spielberg	Hook	December 11, 1991
+Lynch	Eraserhead	1977
+Spielberg	Jurassic Park	June 11, 1993
+Lynch	The Elephant Man	1980
+Spielberg	Schindler's List	December 15, 1993
+Spielberg	The Lost World: Jurassic Park	May 23, 1997
+Lynch	Dune	1984
+Spielberg	Amistad	December 10, 1997
+Lynch	Blue Velvet	1986
+Spielberg	Saving Private Ryan	July 24, 1998	
+Spielberg	A.I. Artificial Intelligence	June 29, 2001	
+Lynch	The Cowboy and the Frenchman	1988
+Spielberg	Minority Report	June 21, 2002
+Lynch	Industrial Symphony No. 1	1990
+Spielberg	Catch Me If You Can	December 25, 2002
+Spielberg	The Terminal	June 18, 2004
+Lynch	Wild at Heart	1990
+Spielberg	War of the Worlds	June 29, 2005
+Lynch	Twin Peaks: Fire Walk with Me	1992
+Spielberg	Munich	December 23, 2005
+Spielberg	Indiana Jones and the Kingdom of the Crystal Skull	May 18, 2008
+Lynch	Premonition Following An Evil Deed	1995
+Spielberg	The Adventures of Tintin: The Secret of the Unicorn	December 21, 2011
+Lynch	Lost Highway	1997
+Spielberg	War Horse	December 25, 2011
+Spielberg	Lincoln	November 9, 2012
+Lynch	The Straight Story	1999
+Spielberg	Bridge of Spies	October 16, 2015
+Lynch	Mulholland Drive	2001
+Lynch	Darkened Room	2002
+Lynch	Dumbland	2002
+Lynch	Ballerina	2006
+Lynch	Inland Empire	2006
+Lynch	Absurda	2007
+Lynch	Boat	2007
+Lynch	Bug Crawls	2007
+Lynch	Industrial Soundscape	2007
+Lynch	Lamp	2007
+Lynch	Out Yonder Neighbor Boy	2007
+Lynch	Intervalometer Experiments	2007
+Lynch	Lady Blue Shanghai	2010
+Lynch	The 3 Rs	2011
